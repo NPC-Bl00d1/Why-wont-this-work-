@@ -1,0 +1,61 @@
+body
+{
+	background: #877f67;
+	
+}
+
+	.login_div1 , .login_div2
+	{
+		background: #b3ab96;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#player1_turn , #player2_turn {
+
+	display:inline-block;
+}
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+button {
+
+background-color: #696457;
+color:#b3ab96;
+border-radius:16px;
+width:100px;
+height:50px;
+font-size:28px;;
+
+}
+
+#question_turn , #answer_turn {
+
+font-size: 28px;
+
+}
+
